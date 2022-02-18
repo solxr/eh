@@ -55,7 +55,7 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           Powered by{' '}
-          <img src="/vercel.svg" alt="Vercel" className="logo" />
+          <img src="https://cdn.stela.fun/mojave.jpg" alt="Vercel" className="logo" />
         </a>
       </footer>
 
